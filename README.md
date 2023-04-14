@@ -1,5 +1,6 @@
-### Hi there 👋
+# Michele "Jazzinghen" Bianchi
 
+![Jazzinghen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jazzinghen&theme=outrun&show_icons=true&hide=issues&count_private=true&custom_title=Jazzinghen's%20Activity%20on%20Github)
 <!--
 **Jazzinghen/jazzinghen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jazzinghen&theme=outrun&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzinghen&theme=outrun&show_icons=true&hide=matlab&langs_count=3" />
-</a>
+## Techical Stack
+![Jazzinghen's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jazzinghen&theme=outrun&show_icons=true)
